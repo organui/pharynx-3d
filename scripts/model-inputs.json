@@ -1,0 +1,288 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ2759",
+      "file": "FJ2759.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2759_BP20310_FMA46631_Right%20superior%20pharyngeal%20constrictor.obj",
+      "sha256": "44b702cd902357c4171608ee905658de85c9d0d5fa107549ec0ae6716c31dcee",
+      "bytes": 753717,
+      "mirrorPath": "meshes/FJ2759_BP20310_FMA46631_Right superior pharyngeal constrictor.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2759_BP20310_FMA46631_Right%20superior%20pharyngeal%20constrictor.obj"
+    },
+    {
+      "id": "FJ2747",
+      "file": "FJ2747.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2747_BP20320_FMA46632_Left%20superior%20pharyngeal%20constrictor.obj",
+      "sha256": "9e0cc24005866cbf4d0eec7f550de25d02aff90bbc53cde38124098779cebc92",
+      "bytes": 750535,
+      "mirrorPath": "meshes/FJ2747_BP20320_FMA46632_Left superior pharyngeal constrictor.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2747_BP20320_FMA46632_Left%20superior%20pharyngeal%20constrictor.obj"
+    },
+    {
+      "id": "FJ2742",
+      "file": "FJ2742.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2742_BP23923_FMA46633_Right%20middle%20pharyngeal%20constrictor.obj",
+      "sha256": "67221b7d20e91fd67c9625231d800e2fc8634cf45ce5ee4fe356dcbe52c8ee2a",
+      "bytes": 406510,
+      "mirrorPath": "meshes/FJ2742_BP23923_FMA46633_Right middle pharyngeal constrictor.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2742_BP23923_FMA46633_Right%20middle%20pharyngeal%20constrictor.obj"
+    },
+    {
+      "id": "FJ2754",
+      "file": "FJ2754.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2754_BP23937_FMA46634_Left%20middle%20pharyngeal%20constrictor.obj",
+      "sha256": "e68ae58e629d5bc434318d8e3ba418993f66c4a8ae2f73b9858d0ce4d094d5ba",
+      "bytes": 406223,
+      "mirrorPath": "meshes/FJ2754_BP23937_FMA46634_Left middle pharyngeal constrictor.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2754_BP23937_FMA46634_Left%20middle%20pharyngeal%20constrictor.obj"
+    },
+    {
+      "id": "FJ2752",
+      "file": "FJ2752.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2752_BP23848_FMA46635_Right%20inferior%20pharyngeal%20constrictor.obj",
+      "sha256": "27f1fd0b5c3e27ce05266f6dfa19232da4fc5f844ee2b36de3b5ef5907d51b27",
+      "bytes": 518002,
+      "mirrorPath": "meshes/FJ2752_BP23848_FMA46635_Right inferior pharyngeal constrictor.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2752_BP23848_FMA46635_Right%20inferior%20pharyngeal%20constrictor.obj"
+    },
+    {
+      "id": "FJ2740",
+      "file": "FJ2740.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2740_BP20100_FMA46636_Left%20inferior%20pharyngeal%20constrictor.obj",
+      "sha256": "e963fb507394357b5553e9e20e3d14d0a68c4d1e970bb2213c635bc7c396ed6a",
+      "bytes": 517584,
+      "mirrorPath": "meshes/FJ2740_BP20100_FMA46636_Left inferior pharyngeal constrictor.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2740_BP20100_FMA46636_Left%20inferior%20pharyngeal%20constrictor.obj"
+    },
+    {
+      "id": "FJ2749",
+      "file": "FJ2749.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2749_BP21665_FMA55077_Pharyngeal%20raphe.obj",
+      "sha256": "6ea3de2412d365118ad768b20089ab020dbd62f2867245161506b19ce948029c",
+      "bytes": 1210602,
+      "mirrorPath": "meshes/FJ2749_BP21665_FMA55077_Pharyngeal raphe.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2749_BP21665_FMA55077_Pharyngeal%20raphe.obj"
+    },
+    {
+      "id": "FJ2758",
+      "file": "FJ2758.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2758_BP23405_FMA46667_Right%20stylopharyngeus.obj",
+      "sha256": "692ac0e86971320af6b90b51dad74eb7d2ea10ec51ca75ebdcf121646c744dee",
+      "bytes": 1742815,
+      "mirrorPath": "meshes/FJ2758_BP23405_FMA46667_Right stylopharyngeus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2758_BP23405_FMA46667_Right%20stylopharyngeus.obj"
+    },
+    {
+      "id": "FJ2746",
+      "file": "FJ2746.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2746_BP23374_FMA46668_Left%20stylopharyngeus.obj",
+      "sha256": "7b1ce3e0b49025b84a30ecb605348d16c7bf500fa33462b1817711fc6801d8f7",
+      "bytes": 220850,
+      "mirrorPath": "meshes/FJ2746_BP23374_FMA46668_Left stylopharyngeus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2746_BP23374_FMA46668_Left%20stylopharyngeus.obj"
+    },
+    {
+      "id": "FJ2755",
+      "file": "FJ2755.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2755_BP23433_FMA46671_Right%20palatopharyngeus.obj",
+      "sha256": "34f7d8b820f3dd214bf69558054d803768c71ec01d592e35b50dea1e7bd32b6e",
+      "bytes": 2838048,
+      "mirrorPath": "meshes/FJ2755_BP23433_FMA46671_Right palatopharyngeus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2755_BP23433_FMA46671_Right%20palatopharyngeus.obj"
+    },
+    {
+      "id": "FJ2743",
+      "file": "FJ2743.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2743_BP23494_FMA46672_Left%20palatopharyngeus.obj",
+      "sha256": "548519ac2ba50925b6cc741264bd952de9719078877fc6fddb8a202bea1d75ce",
+      "bytes": 2822966,
+      "mirrorPath": "meshes/FJ2743_BP23494_FMA46672_Left palatopharyngeus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2743_BP23494_FMA46672_Left%20palatopharyngeus.obj"
+    },
+    {
+      "id": "FJ2757",
+      "file": "FJ2757.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2757_BP23377_FMA46669_Right%20salpingopharyngeus.obj",
+      "sha256": "66877316caeb07b8a903923b4ec8e68acb06c079b19733c18e55a587fa8fb1a6",
+      "bytes": 605276,
+      "mirrorPath": "meshes/FJ2757_BP23377_FMA46669_Right salpingopharyngeus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2757_BP23377_FMA46669_Right%20salpingopharyngeus.obj"
+    },
+    {
+      "id": "FJ2745",
+      "file": "FJ2745.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2745_BP23749_FMA46670_Left%20salpingopharyngeus.obj",
+      "sha256": "9cf36b2c3b21aa5c617b6aedb24d124d4f9cb7758f4865c3f4912b1c475d48cc",
+      "bytes": 600269,
+      "mirrorPath": "meshes/FJ2745_BP23749_FMA46670_Left salpingopharyngeus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2745_BP23749_FMA46670_Left%20salpingopharyngeus.obj"
+    },
+    {
+      "id": "FJ2753",
+      "file": "FJ2753.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2753_BP23525_FMA46728_Right%20levator%20veli%20palatini.obj",
+      "sha256": "8f55b524ce3b6f6658b7db3ee64e2c888c01e94253a8f3d164c3f170da64c80e",
+      "bytes": 835568,
+      "mirrorPath": "meshes/FJ2753_BP23525_FMA46728_Right levator veli palatini.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2753_BP23525_FMA46728_Right%20levator%20veli%20palatini.obj"
+    },
+    {
+      "id": "FJ2741",
+      "file": "FJ2741.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2741_BP23383_FMA46729_Left%20levator%20veli%20palatini.obj",
+      "sha256": "303e17915deb228ec62d9d5e89df0e2f2d557ff686eb11da6ff76019ce7062cc",
+      "bytes": 827957,
+      "mirrorPath": "meshes/FJ2741_BP23383_FMA46729_Left levator veli palatini.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2741_BP23383_FMA46729_Left%20levator%20veli%20palatini.obj"
+    },
+    {
+      "id": "FJ2760",
+      "file": "FJ2760.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2760_BP23734_FMA46731_Right%20tensor%20veli%20palatini.obj",
+      "sha256": "52558260e2ad962ef4fdfef68a090d87915bf265e2dd3439cc2df6e635ba9b16",
+      "bytes": 927495,
+      "mirrorPath": "meshes/FJ2760_BP23734_FMA46731_Right tensor veli palatini.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2760_BP23734_FMA46731_Right%20tensor%20veli%20palatini.obj"
+    },
+    {
+      "id": "FJ2748",
+      "file": "FJ2748.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2748_BP23471_FMA46732_Left%20tensor%20veli%20palatini.obj",
+      "sha256": "6ec38cb904832d0d2560c5f69492d1788807ff718dc0821fc5f107a25c3f9e5f",
+      "bytes": 922334,
+      "mirrorPath": "meshes/FJ2748_BP23471_FMA46732_Left tensor veli palatini.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2748_BP23471_FMA46732_Left%20tensor%20veli%20palatini.obj"
+    },
+    {
+      "id": "FJ2762",
+      "file": "FJ2762.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2762_BP23328_FMA46733_Uvular%20muscle.obj",
+      "sha256": "55153cbcb23abf7fb1d035e6b2670f0c63fff2ee271df7f74bb4e02e7004e837",
+      "bytes": 101195,
+      "mirrorPath": "meshes/FJ2762_BP23328_FMA46733_Uvular muscle.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2762_BP23328_FMA46733_Uvular%20muscle.obj"
+    },
+    {
+      "id": "FJ2761",
+      "file": "FJ2761.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2761_BP23790_FMA54640_Tongue.obj",
+      "sha256": "707d87fdd5b29147724d013b18f98e7eeab2d71bceec9490cf14784c63117e34",
+      "bytes": 31105,
+      "mirrorPath": "meshes/FJ2761_BP23790_FMA54640_Tongue.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2761_BP23790_FMA54640_Tongue.obj"
+    },
+    {
+      "id": "FJ2770",
+      "file": "FJ2770.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj",
+      "sha256": "71ee991574e3dc23ee1dd8122b0c14f2961b4df3d3ce9f13b706ff2f91c3491a",
+      "bytes": 294458,
+      "mirrorPath": "meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj"
+    },
+    {
+      "id": "FJ2772",
+      "file": "FJ2772.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj",
+      "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+      "bytes": 75198,
+      "mirrorPath": "meshes/FJ2772_BP22977_FMA52749_Hyoid bone.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj"
+    },
+    {
+      "id": "FJ2808",
+      "file": "FJ2808.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2808_BP22917_FMA55099_Thyroid%20cartilage.obj",
+      "sha256": "7ee325a7e90428925aa6885abb683d9e06df2fe13f8f35f398a2ae6de1ec2a21",
+      "bytes": 161287,
+      "mirrorPath": "meshes/FJ2808_BP22917_FMA55099_Thyroid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2808_BP22917_FMA55099_Thyroid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2769",
+      "file": "FJ2769.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2769_BP22903_FMA9615_Cricoid%20cartilage.obj",
+      "sha256": "4c69ae5d7f1374691dec77b1cb4e096509727caa6c8e0a42238d0e1388db01e9",
+      "bytes": 105143,
+      "mirrorPath": "meshes/FJ2769_BP22903_FMA9615_Cricoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2769_BP22903_FMA9615_Cricoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2792",
+      "file": "FJ2792.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2792_BP22608_FMA55113_Right%20arytenoid%20cartilage.obj",
+      "sha256": "0b21781173a6de39a14ef7c56c4f171d6a0d6ebb87a1489ea46f3cc27d13d374",
+      "bytes": 31967,
+      "mirrorPath": "meshes/FJ2792_BP22608_FMA55113_Right arytenoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2792_BP22608_FMA55113_Right%20arytenoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2775",
+      "file": "FJ2775.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2775_BP23122_FMA55114_Left%20arytenoid%20cartilage.obj",
+      "sha256": "02eed5745be85712cd2ad3587c33e7308f1cebba1962c9c8b0bf90feeef146c4",
+      "bytes": 31671,
+      "mirrorPath": "meshes/FJ2775_BP23122_FMA55114_Left arytenoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2775_BP23122_FMA55114_Left%20arytenoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ5045",
+      "file": "FJ5045.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5045_BP29723_FMA49498_Right%20ascending%20pharyngeal%20artery.obj",
+      "sha256": "83520cf307b5a67b3914d2b21aefed58b01a0656648fe636659729c25b11926d",
+      "bytes": 83379,
+      "mirrorPath": "meshes/FJ5045_BP29723_FMA49498_Right ascending pharyngeal artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5045_BP29723_FMA49498_Right%20ascending%20pharyngeal%20artery.obj"
+    },
+    {
+      "id": "FJ5154",
+      "file": "FJ5154.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5154_BP29558_FMA50822_Pharyngeal%20venous%20plexus.obj",
+      "sha256": "498bb0ff9346355b317ec3505cbb63542c9ea74dcac1b4d20dc976fde96a71c1",
+      "bytes": 441843,
+      "mirrorPath": "meshes/FJ5154_BP29558_FMA50822_Pharyngeal venous plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5154_BP29558_FMA50822_Pharyngeal%20venous%20plexus.obj"
+    },
+    {
+      "id": "FJ3901",
+      "file": "FJ3901.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3901_BP29500_FMA50894_Left%20glossopharyngeal%20nerve.obj",
+      "sha256": "75b6042e1038a077c1c26e4158cc51930a4fa61749603a07f2d8131882f83d8c",
+      "bytes": 450504,
+      "mirrorPath": "meshes/FJ3901_BP29500_FMA50894_Left glossopharyngeal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3901_BP29500_FMA50894_Left%20glossopharyngeal%20nerve.obj"
+    },
+    {
+      "id": "FJ3939",
+      "file": "FJ3939.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3939_BP29500_FMA50894_Left%20glossopharyngeal%20nerve.obj",
+      "sha256": "b5974899a90d02463da0385030c9105cbcb37e71f4e34d0b8d4d9b13a5b66291",
+      "bytes": 457294,
+      "mirrorPath": "meshes/FJ3939_BP29500_FMA50894_Left glossopharyngeal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3939_BP29500_FMA50894_Left%20glossopharyngeal%20nerve.obj"
+    },
+    {
+      "id": "FJ4000",
+      "file": "FJ4000.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4000_BP29344_FMA77524_Pharyngeal%20nerve.obj",
+      "sha256": "5a60def5d5ec5be3c983a2fdbd1af63128c352912e0e6a173bce033445dd93ca",
+      "bytes": 69487,
+      "mirrorPath": "meshes/FJ4000_BP29344_FMA77524_Pharyngeal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4000_BP29344_FMA77524_Pharyngeal%20nerve.obj"
+    },
+    {
+      "id": "FJ3972",
+      "file": "FJ3972.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3972_BP29344_FMA77524_Pharyngeal%20nerve.obj",
+      "sha256": "f3d4c5324d694806179b434dec43bd4c3aa88713ebf95103f481922b17131c19",
+      "bytes": 71647,
+      "mirrorPath": "meshes/FJ3972_BP29344_FMA77524_Pharyngeal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3972_BP29344_FMA77524_Pharyngeal%20nerve.obj"
+    }
+  ]
+}
