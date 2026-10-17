@@ -1,0 +1,534 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3",
+  "variant": "Object set 4.3, ontology tree FMA3.0; official IS-A concept-to-element mapping",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "sourceLicenseStatement": "https://lifesciencedb.jp/bp3d/info/index.html#License",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science. CC BY-SA 2.1 Japan. Adapted by OrganUI.",
+  "mirror": {
+    "repository": "https://github.com/olivercase/body_parts_3d_api",
+    "commit": "fd527e6f4daf732fd814314d9257df5877b844bc"
+  },
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -41.2631,
+        -169.904,
+        1384.58
+      ],
+      "max": [
+        39.093,
+        -68.4421,
+        1516.69
+      ]
+    },
+    "centerMm": [
+      -1.085049999999999,
+      -119.17304999999999,
+      1450.635
+    ],
+    "scale": 0.01,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "pharynx.glb",
+    "bytes": 7148788,
+    "sha256": "70d3992cc103ab18f1e9598582cf84c21cc4cbc4d1e65f3853a78efc2961202d"
+  },
+  "structures": [
+    {
+      "id": "superior-constrictor",
+      "fma": "FMA46621",
+      "concepts": [
+        "FMA46631",
+        "FMA46632"
+      ],
+      "sourceName": "right and left superior pharyngeal constrictors",
+      "elements": [
+        {
+          "element": "FJ2759",
+          "concept": "FMA46631",
+          "sourceName": "Right superior pharyngeal constrictor",
+          "sha256": "44b702cd902357c4171608ee905658de85c9d0d5fa107549ec0ae6716c31dcee",
+          "bytes": 753717,
+          "vertices": 6403,
+          "triangles": 10702
+        },
+        {
+          "element": "FJ2747",
+          "concept": "FMA46632",
+          "sourceName": "Left superior pharyngeal constrictor",
+          "sha256": "9e0cc24005866cbf4d0eec7f550de25d02aff90bbc53cde38124098779cebc92",
+          "bytes": 750535,
+          "vertices": 6380,
+          "triangles": 10702
+        }
+      ]
+    },
+    {
+      "id": "middle-constrictor",
+      "fma": "FMA46622",
+      "concepts": [
+        "FMA46633",
+        "FMA46634"
+      ],
+      "sourceName": "right and left middle pharyngeal constrictors",
+      "elements": [
+        {
+          "element": "FJ2742",
+          "concept": "FMA46633",
+          "sourceName": "Right middle pharyngeal constrictor",
+          "sha256": "67221b7d20e91fd67c9625231d800e2fc8634cf45ce5ee4fe356dcbe52c8ee2a",
+          "bytes": 406510,
+          "vertices": 3497,
+          "triangles": 5904
+        },
+        {
+          "element": "FJ2754",
+          "concept": "FMA46634",
+          "sourceName": "Left middle pharyngeal constrictor",
+          "sha256": "e68ae58e629d5bc434318d8e3ba418993f66c4a8ae2f73b9858d0ce4d094d5ba",
+          "bytes": 406223,
+          "vertices": 3454,
+          "triangles": 5912
+        }
+      ]
+    },
+    {
+      "id": "inferior-constrictor",
+      "fma": "FMA46623",
+      "concepts": [
+        "FMA46635",
+        "FMA46636"
+      ],
+      "sourceName": "right and left inferior pharyngeal constrictors",
+      "elements": [
+        {
+          "element": "FJ2752",
+          "concept": "FMA46635",
+          "sourceName": "Right inferior pharyngeal constrictor",
+          "sha256": "27f1fd0b5c3e27ce05266f6dfa19232da4fc5f844ee2b36de3b5ef5907d51b27",
+          "bytes": 518002,
+          "vertices": 4406,
+          "triangles": 7448
+        },
+        {
+          "element": "FJ2740",
+          "concept": "FMA46636",
+          "sourceName": "Left inferior pharyngeal constrictor",
+          "sha256": "e963fb507394357b5553e9e20e3d14d0a68c4d1e970bb2213c635bc7c396ed6a",
+          "bytes": 517584,
+          "vertices": 4424,
+          "triangles": 7422
+        }
+      ]
+    },
+    {
+      "id": "pharyngeal-raphe",
+      "fma": "FMA55077",
+      "concepts": [
+        "FMA55077"
+      ],
+      "sourceName": "pharyngeal raphe",
+      "elements": [
+        {
+          "element": "FJ2749",
+          "concept": "FMA55077",
+          "sourceName": "Pharyngeal raphe",
+          "sha256": "6ea3de2412d365118ad768b20089ab020dbd62f2867245161506b19ce948029c",
+          "bytes": 1210602,
+          "vertices": 12514,
+          "triangles": 12968
+        }
+      ]
+    },
+    {
+      "id": "stylopharyngeus",
+      "fma": "FMA46664",
+      "concepts": [
+        "FMA46667",
+        "FMA46668"
+      ],
+      "sourceName": "right and left stylopharyngeus",
+      "elements": [
+        {
+          "element": "FJ2758",
+          "concept": "FMA46667",
+          "sourceName": "Right stylopharyngeus",
+          "sha256": "692ac0e86971320af6b90b51dad74eb7d2ea10ec51ca75ebdcf121646c744dee",
+          "bytes": 1742815,
+          "vertices": 13352,
+          "triangles": 25752
+        },
+        {
+          "element": "FJ2746",
+          "concept": "FMA46668",
+          "sourceName": "Left stylopharyngeus",
+          "sha256": "7b1ce3e0b49025b84a30ecb605348d16c7bf500fa33462b1817711fc6801d8f7",
+          "bytes": 220850,
+          "vertices": 1985,
+          "triangles": 3268
+        }
+      ]
+    },
+    {
+      "id": "palatopharyngeus",
+      "fma": "FMA46666",
+      "concepts": [
+        "FMA46671",
+        "FMA46672"
+      ],
+      "sourceName": "right and left palatopharyngeus",
+      "elements": [
+        {
+          "element": "FJ2755",
+          "concept": "FMA46671",
+          "sourceName": "Right palatopharyngeus",
+          "sha256": "34f7d8b820f3dd214bf69558054d803768c71ec01d592e35b50dea1e7bd32b6e",
+          "bytes": 2838048,
+          "vertices": 20746,
+          "triangles": 41400
+        },
+        {
+          "element": "FJ2743",
+          "concept": "FMA46672",
+          "sourceName": "Left palatopharyngeus",
+          "sha256": "548519ac2ba50925b6cc741264bd952de9719078877fc6fddb8a202bea1d75ce",
+          "bytes": 2822966,
+          "vertices": 20760,
+          "triangles": 41400
+        }
+      ]
+    },
+    {
+      "id": "salpingopharyngeus",
+      "fma": "FMA46665",
+      "concepts": [
+        "FMA46669",
+        "FMA46670"
+      ],
+      "sourceName": "right and left salpingopharyngeus",
+      "elements": [
+        {
+          "element": "FJ2757",
+          "concept": "FMA46669",
+          "sourceName": "Right salpingopharyngeus",
+          "sha256": "66877316caeb07b8a903923b4ec8e68acb06c079b19733c18e55a587fa8fb1a6",
+          "bytes": 605276,
+          "vertices": 4853,
+          "triangles": 9152
+        },
+        {
+          "element": "FJ2745",
+          "concept": "FMA46670",
+          "sourceName": "Left salpingopharyngeus",
+          "sha256": "9cf36b2c3b21aa5c617b6aedb24d124d4f9cb7758f4865c3f4912b1c475d48cc",
+          "bytes": 600269,
+          "vertices": 4846,
+          "triangles": 9152
+        }
+      ]
+    },
+    {
+      "id": "levator-veli-palatini",
+      "fma": "FMA46727",
+      "concepts": [
+        "FMA46728",
+        "FMA46729"
+      ],
+      "sourceName": "right and left levator veli palatini",
+      "elements": [
+        {
+          "element": "FJ2753",
+          "concept": "FMA46728",
+          "sourceName": "Right levator veli palatini",
+          "sha256": "8f55b524ce3b6f6658b7db3ee64e2c888c01e94253a8f3d164c3f170da64c80e",
+          "bytes": 835568,
+          "vertices": 6835,
+          "triangles": 12312
+        },
+        {
+          "element": "FJ2741",
+          "concept": "FMA46729",
+          "sourceName": "Left levator veli palatini",
+          "sha256": "303e17915deb228ec62d9d5e89df0e2f2d557ff686eb11da6ff76019ce7062cc",
+          "bytes": 827957,
+          "vertices": 6821,
+          "triangles": 12318
+        }
+      ]
+    },
+    {
+      "id": "tensor-veli-palatini",
+      "fma": "FMA46730",
+      "concepts": [
+        "FMA46731",
+        "FMA46732"
+      ],
+      "sourceName": "right and left tensor veli palatini",
+      "elements": [
+        {
+          "element": "FJ2760",
+          "concept": "FMA46731",
+          "sourceName": "Right tensor veli palatini",
+          "sha256": "52558260e2ad962ef4fdfef68a090d87915bf265e2dd3439cc2df6e635ba9b16",
+          "bytes": 927495,
+          "vertices": 7464,
+          "triangles": 13872
+        },
+        {
+          "element": "FJ2748",
+          "concept": "FMA46732",
+          "sourceName": "Left tensor veli palatini",
+          "sha256": "6ec38cb904832d0d2560c5f69492d1788807ff718dc0821fc5f107a25c3f9e5f",
+          "bytes": 922334,
+          "vertices": 7523,
+          "triangles": 13872
+        }
+      ]
+    },
+    {
+      "id": "musculus-uvulae",
+      "fma": "FMA46733",
+      "concepts": [
+        "FMA46733"
+      ],
+      "sourceName": "uvular muscle",
+      "elements": [
+        {
+          "element": "FJ2762",
+          "concept": "FMA46733",
+          "sourceName": "Uvular muscle",
+          "sha256": "55153cbcb23abf7fb1d035e6b2670f0c63fff2ee271df7f74bb4e02e7004e837",
+          "bytes": 101195,
+          "vertices": 894,
+          "triangles": 1632
+        }
+      ]
+    },
+    {
+      "id": "tongue",
+      "fma": "FMA54640",
+      "concepts": [
+        "FMA54640"
+      ],
+      "sourceName": "tongue",
+      "elements": [
+        {
+          "element": "FJ2761",
+          "concept": "FMA54640",
+          "sourceName": "Tongue",
+          "sha256": "707d87fdd5b29147724d013b18f98e7eeab2d71bceec9490cf14784c63117e34",
+          "bytes": 31105,
+          "vertices": 276,
+          "triangles": 524
+        }
+      ]
+    },
+    {
+      "id": "epiglottis",
+      "fma": "FMA55130",
+      "concepts": [
+        "FMA55130"
+      ],
+      "sourceName": "epiglottis",
+      "elements": [
+        {
+          "element": "FJ2770",
+          "concept": "FMA55130",
+          "sourceName": "Epiglottis",
+          "sha256": "71ee991574e3dc23ee1dd8122b0c14f2961b4df3d3ce9f13b706ff2f91c3491a",
+          "bytes": 294458,
+          "vertices": 2992,
+          "triangles": 3602
+        }
+      ]
+    },
+    {
+      "id": "hyoid-bone",
+      "fma": "FMA52749",
+      "concepts": [
+        "FMA52749"
+      ],
+      "sourceName": "hyoid bone",
+      "elements": [
+        {
+          "element": "FJ2772",
+          "concept": "FMA52749",
+          "sourceName": "Hyoid bone",
+          "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+          "bytes": 75198,
+          "vertices": 687,
+          "triangles": 1196
+        }
+      ]
+    },
+    {
+      "id": "thyroid-cartilage",
+      "fma": "FMA55099",
+      "concepts": [
+        "FMA55099"
+      ],
+      "sourceName": "thyroid cartilage",
+      "elements": [
+        {
+          "element": "FJ2808",
+          "concept": "FMA55099",
+          "sourceName": "Thyroid cartilage",
+          "sha256": "7ee325a7e90428925aa6885abb683d9e06df2fe13f8f35f398a2ae6de1ec2a21",
+          "bytes": 161287,
+          "vertices": 1360,
+          "triangles": 2610
+        }
+      ]
+    },
+    {
+      "id": "cricoid-cartilage",
+      "fma": "FMA9615",
+      "concepts": [
+        "FMA9615"
+      ],
+      "sourceName": "cricoid cartilage",
+      "elements": [
+        {
+          "element": "FJ2769",
+          "concept": "FMA9615",
+          "sourceName": "Cricoid cartilage",
+          "sha256": "4c69ae5d7f1374691dec77b1cb4e096509727caa6c8e0a42238d0e1388db01e9",
+          "bytes": 105143,
+          "vertices": 937,
+          "triangles": 1702
+        }
+      ]
+    },
+    {
+      "id": "arytenoid-cartilages",
+      "fma": "FMA55109",
+      "concepts": [
+        "FMA55113",
+        "FMA55114"
+      ],
+      "sourceName": "right and left arytenoid cartilages",
+      "elements": [
+        {
+          "element": "FJ2792",
+          "concept": "FMA55113",
+          "sourceName": "Right arytenoid cartilage",
+          "sha256": "0b21781173a6de39a14ef7c56c4f171d6a0d6ebb87a1489ea46f3cc27d13d374",
+          "bytes": 31967,
+          "vertices": 282,
+          "triangles": 540
+        },
+        {
+          "element": "FJ2775",
+          "concept": "FMA55114",
+          "sourceName": "Left arytenoid cartilage",
+          "sha256": "02eed5745be85712cd2ad3587c33e7308f1cebba1962c9c8b0bf90feeef146c4",
+          "bytes": 31671,
+          "vertices": 284,
+          "triangles": 536
+        }
+      ]
+    },
+    {
+      "id": "ascending-pharyngeal-artery",
+      "fma": "FMA49498",
+      "concepts": [
+        "FMA49498"
+      ],
+      "sourceName": "right ascending pharyngeal artery",
+      "elements": [
+        {
+          "element": "FJ5045",
+          "concept": "FMA49498",
+          "sourceName": "Right ascending pharyngeal artery",
+          "sha256": "83520cf307b5a67b3914d2b21aefed58b01a0656648fe636659729c25b11926d",
+          "bytes": 83379,
+          "vertices": 713,
+          "triangles": 1404
+        }
+      ]
+    },
+    {
+      "id": "pharyngeal-venous-plexus",
+      "fma": "FMA50822",
+      "concepts": [
+        "FMA50822"
+      ],
+      "sourceName": "pharyngeal venous plexus",
+      "elements": [
+        {
+          "element": "FJ5154",
+          "concept": "FMA50822",
+          "sourceName": "Pharyngeal venous plexus",
+          "sha256": "498bb0ff9346355b317ec3505cbb63542c9ea74dcac1b4d20dc976fde96a71c1",
+          "bytes": 441843,
+          "vertices": 4051,
+          "triangles": 5932
+        }
+      ]
+    },
+    {
+      "id": "glossopharyngeal-nerves",
+      "fma": "FMA50894",
+      "concepts": [
+        "FMA50894"
+      ],
+      "sourceName": "glossopharyngeal nerve (two files)",
+      "elements": [
+        {
+          "element": "FJ3901",
+          "concept": "FMA50894",
+          "sourceName": "Left glossopharyngeal nerve",
+          "sha256": "75b6042e1038a077c1c26e4158cc51930a4fa61749603a07f2d8131882f83d8c",
+          "bytes": 450504,
+          "vertices": 3612,
+          "triangles": 6926
+        },
+        {
+          "element": "FJ3939",
+          "concept": "FMA50894",
+          "sourceName": "Left glossopharyngeal nerve",
+          "sha256": "b5974899a90d02463da0385030c9105cbcb37e71f4e34d0b8d4d9b13a5b66291",
+          "bytes": 457294,
+          "vertices": 3689,
+          "triangles": 7100
+        }
+      ]
+    },
+    {
+      "id": "pharyngeal-nerves",
+      "fma": "FMA77524",
+      "concepts": [
+        "FMA77524"
+      ],
+      "sourceName": "pharyngeal nerve (two files)",
+      "elements": [
+        {
+          "element": "FJ4000",
+          "concept": "FMA77524",
+          "sourceName": "Pharyngeal nerve",
+          "sha256": "5a60def5d5ec5be3c983a2fdbd1af63128c352912e0e6a173bce033445dd93ca",
+          "bytes": 69487,
+          "vertices": 623,
+          "triangles": 1118
+        },
+        {
+          "element": "FJ3972",
+          "concept": "FMA77524",
+          "sourceName": "Pharyngeal nerve",
+          "sha256": "f3d4c5324d694806179b434dec43bd4c3aa88713ebf95103f481922b17131c19",
+          "bytes": 71647,
+          "vertices": 659,
+          "triangles": 1138
+        }
+      ]
+    }
+  ]
+}
